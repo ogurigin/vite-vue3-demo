@@ -31,4 +31,4 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 1. 初始化项目
 2. 安装基本 axios ts router等
 3. 使用代码规范 EditorConfig + Prettier + ESLint  参考(https://juejin.cn/post/6951649464637636622#heading-13) 
-4. 后续具体项目待定 ui待定
+4. 后续具体项目待定 ui待定 
